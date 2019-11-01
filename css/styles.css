@@ -30,7 +30,13 @@ body{
 }
 .text3{
   background: transparent;
+
   color: #FFFFFF;
   align-content: center;
   font-size: 18px;
+}
+.hide,.hide1,.hide2{
+
+  display: none;
+
 }
