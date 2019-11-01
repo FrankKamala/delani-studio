@@ -21,5 +21,16 @@ body{
   background-size:cover;
   background-attachment: fixed;
   margin-bottom: 0;
+}
+.part3{
+  background : url(background/s_image.jpg) no-repeat;
+  background-size:cover;
 
+  margin-bottom: 0;
+}
+.text3{
+  background: transparent;
+  color: #FFFFFF;
+  align-content: center;
+  font-size: 18px;
 }
