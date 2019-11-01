@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: auto;
+}
+.container{
+  margin: inherit;
+  width: inherit;
+}
+.text1{
+  background: transparent;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+}
+.part1{
+  background: url("background/h_img.jpg") no-repeat ;
+}
