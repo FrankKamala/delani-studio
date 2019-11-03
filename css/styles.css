@@ -28,6 +28,23 @@ body{
 
   margin-bottom: 0;
 }
+#part5{
+  background : url(background/c_image.jpg) no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+
+  margin-bottom: 20px;
+}
+textarea{
+  border-radius: 15px;
+}
+.btn:hover {
+  color: #000000;
+  text-decoration: none;
+}
+.btn{
+  background-color: #329932;
+}
 .grid{
   display: flex;
    flex-wrap: wrap;
