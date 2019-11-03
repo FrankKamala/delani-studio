@@ -28,6 +28,14 @@ body{
 
   margin-bottom: 0;
 }
+.grid{
+  display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin-top: 5%;
+   width: auto;
+   margin-bottom: 20px;
+}
 
 .text3{
   background: transparent;
