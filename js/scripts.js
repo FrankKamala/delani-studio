@@ -15,5 +15,11 @@ $(document).ready(function () {
     $(".show2").slideToggle();
     $(".hide2").slideToggle();
   });
+  $("button").click(function(event){
+    alert("Message Sent");
+    event.preventDefault();
+
+  });
+
 
 });
