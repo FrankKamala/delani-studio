@@ -1,15 +1,16 @@
-
-body{
+body {
   margin: 0;
   padding: 0;
   height: auto;
   text-align: center;
 }
-.container{
+
+.container {
   margin: inherit;
   width: inherit;
 }
-.text1{
+
+.text1 {
   background: transparent;
   font-weight: bold;
   color: #FFFFFF;
@@ -17,73 +18,76 @@ body{
   font-size: 50px;
 }
 
-.part1{
-  background: url(background/h_img.jpg) no-repeat ;
-  background-size:cover;
+.part1 {
+  background: url(background/h_img.jpg) no-repeat;
+  background-size: cover;
   background-attachment: fixed;
   margin-bottom: 0;
   font-family: 'Yeon Sung', cursive;
 }
-.part2{
+
+.part2 {
   font-family: 'Barlow Condensed', sans-serif;
   font-size: 22px;
 }
 
-.part3{
-  background : url(background/s_image.jpg) no-repeat;
-  background-size:cover;
-
+.part3 {
+  background: url(background/s_image.jpg) no-repeat;
+  background-size: cover;
   margin-bottom: 20px;
 }
-#part5{
-  background : url(background/c_image.jpg) no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
 
+#part5 {
+  background: url(background/c_image.jpg) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   margin-bottom: 5px;
 }
-.part6{
-  margin-top:10px;
+
+.part6 {
+  margin-top: 10px;
 }
 
-textarea{
+textarea {
   border-radius: 15px;
 }
+
 .btn:hover {
   color: #000000;
   text-decoration: none;
 }
-.btn{
+
+.btn {
   background-color: #329932;
 }
-.grid{
+
+.grid {
   display: flex;
-   flex-wrap: wrap;
-   justify-content: center;
-   margin-top: 5%;
-   width: auto;
-   margin-bottom: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 5%;
+  width: auto;
+  margin-bottom: 20px;
 }
 
-.text3{
+.text3 {
   background: transparent;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 22px;
   font-weight: bold;
   color: #FFFFFF;
   align-content: center;
-
 }
-h4{
+
+h4 {
   font-weight: bold;
 }
+
 .zoom:hover {
-  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transform: scale(1.5);
+  /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
-
-.hide,.hide1,.hide2{
-
+.hide, .hide1, .hide2 {
   display: none;
-
 }
