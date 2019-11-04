@@ -64,6 +64,16 @@ textarea{
    width: auto;
    margin-bottom: 20px;
 }
+#image1 .text {
+position:relative;
+bottom:30px;
+left:20px;
+visibility:hidden;
+}
+
+#image1:hover .text {
+visibility:visible;
+}
 
 .text3{
   background: transparent;
@@ -74,6 +84,11 @@ textarea{
   align-content: center;
 
 }
+.zoom:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 .hide,.hide1,.hide2{
 
   display: none;
