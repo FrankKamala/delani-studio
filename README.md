@@ -34,7 +34,7 @@ Unzip the folder contents and open index.html file on any browser
 
 ## Support and contact details
 
-Drop your suggestions via **Email** :<mailto:frankkamala@gmail.com>
+Drop your suggestions via **Email** :<frankkamala@gmail.com>
 
 ## License
 
