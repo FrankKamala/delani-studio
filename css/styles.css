@@ -21,7 +21,9 @@ body{
   background-size:cover;
   background-attachment: fixed;
   margin-bottom: 0;
+  font-family: 'Yeon Sung', cursive;
 }
+
 .part3{
   background : url(background/s_image.jpg) no-repeat;
   background-size:cover;
@@ -35,10 +37,10 @@ body{
 
   margin-bottom: 5px;
 }
-h5{
-  font-family:sans-serif;
-  font-style: Roboto;
+.part6{
+  margin-top:10px;
 }
+
 textarea{
   border-radius: 15px;
 }
@@ -60,10 +62,12 @@ textarea{
 
 .text3{
   background: transparent;
-
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
   color: #FFFFFF;
   align-content: center;
-  font-size: 18px;
+
 }
 .hide,.hide1,.hide2{
 
