@@ -7,8 +7,12 @@ This is a website designed by Kamala for a Delani studio.It contains details abo
 Francis Kamala Albert.
 
 ## Screenshots
- Homepage Screenshot
-* ![image](https://github.com/FrankKamala/delani-studio/blob/master/images/screenshot/hme.png)
+ Landing Screenshot
+![image](https://github.com/FrankKamala/delani-studio/blob/master/images/screenshot/hme.png)
+
+  What We Do Section
+  ![image](https://github.com/FrankKamala/delani-studio/blob/master/images/screenshot/works.png)
+
 
 
 ## Setup
