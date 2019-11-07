@@ -32,6 +32,9 @@ Unzip the folder contents and open index.html file on any browser
 -   CSS
 -   jQuery
 
+## Live link
+https://frankkamala.github.io/delani-studio/
+
 ## Support and contact details
 
 Drop your suggestions via **Email** :<frankkamala@gmail.com>
