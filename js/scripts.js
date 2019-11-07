@@ -24,7 +24,6 @@ $(document).ready(function() {
 
 
 
-
 $("#work1").hover(function(){
    $("#1").removeClass("box1")
      $("#1").addClass("box10")
