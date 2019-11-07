@@ -51,6 +51,27 @@ body {
 textarea {
   border-radius: 15px;
 }
+.box1 {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  color: #e5e5e5;
+  background: #00004c;
+  border: 1px solid #800080;
+  padding: 12px;
+  display: none;
+}
+.box10
+{
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  color: #e5e5e5;
+  background: #00004c;
+  border: 1px solid #800080;
+  padding: 12px;
+
+}
 
 .btn:hover {
   color: #000000;
